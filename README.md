@@ -9,7 +9,7 @@
 ## 安裝
 
 ```bash
-npx skills add <your-github-username>/gooaye-skill
+npx skills add chaowen12/gooaye-skill
 ```
 
 ## 使用
