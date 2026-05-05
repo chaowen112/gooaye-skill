@@ -9,7 +9,7 @@
 ## 安裝
 
 ```bash
-npx skills add chaowen12/gooaye-skill
+npx skills add chaowen112/gooaye-skill
 ```
 
 ## 使用
